@@ -61,27 +61,32 @@ Pins can be changed inside `config.h`.
 
 ## 📂 Project Structure
 
-
+```
 AI-Based-Voice-and-Motion-Controlled-Smart-Light-System/
 │
 ├── platformio.ini
 ├── README.md
 │
 ├── include/
-│ ├── config.h
-│ ├── motion.h
-│ ├── relay.h
-│ └── wifi_server.h
+│   ├── config.h
+│   ├── motion.h
+│   ├── relay.h
+│   └── wifi_server.h
 │
 ├── src/
-│ ├── main.cpp
-│ ├── motion.cpp
-│ ├── relay.cpp
-│ └── wifi_server.cpp
+│   ├── main.cpp
+│   ├── motion.cpp
+│   ├── relay.cpp
+│   └── wifi_server.cpp
 │
 ├── lib/
-└── test/
-
+│   └── (empty - for future custom libraries)
+│
+├── test/
+│   └── (reserved for unit testing)
+│
+└── .gitignore
+```
 
 ## 📁 File Descriptions
 
@@ -182,15 +187,16 @@ http://ESP32_IP/off
 ---
 
 ## 👨‍💻 Developed By
-Ankur Singh
-B.Tech CSE (AI & ML)
-Section 2E
 
-Rudraksha Sharma  
+**Ankur Singh**  
 B.Tech CSE (AI & ML)  
 Section 2E
 
-Himanshu Yadav  
+**Rudraksha Sharma**  
+B.Tech CSE (AI & ML)  
+Section 2E
+
+**Himanshu Yadav**  
 B.Tech CSE (AI & ML)  
 Section 2E
 
