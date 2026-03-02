@@ -83,8 +83,6 @@ AI-Based-Voice-and-Motion-Controlled-Smart-Light-System/
 └── test/
 
 
----
-
 ## 📁 File Descriptions
 
 ### platformio.ini
@@ -184,10 +182,17 @@ http://ESP32_IP/off
 ---
 
 ## 👨‍💻 Developed By
+Ankur Singh
+B.Tech CSE (AI & ML)
+Section 2E
 
 Rudraksha Sharma  
 B.Tech CSE (AI & ML)  
-ESP32 IoT Project
+Section 2E
+
+Himanshu Yadav  
+B.Tech CSE (AI & ML)  
+Section 2E
 
 ---
 
